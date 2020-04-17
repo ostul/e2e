@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "cypress": "^4.4.0",
-    "lplus": "^1.0.0",
+    "lplus": "git+https://git@github.com/ostul/lplus.git",
     "rplus": "^1.0.0"
   },
   "devDependencies": {},

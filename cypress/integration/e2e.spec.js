@@ -4,8 +4,8 @@ let rplus = require('rplus')
 let lplusTodoPage = new lplus.TodoPage()
 let rplusTodoPage = new rplus.TodoPage()
 
-
-
+// lplus.HomePage.login()
+// lplus.LoginPage.logout()
 
 describe('L Plus', () => {
     beforeEach(() => {
